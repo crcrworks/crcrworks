@@ -1,5 +1,3 @@
-## CRCR Works
-
 <table>
   <!-- ヘッダ -->
   <tr>
