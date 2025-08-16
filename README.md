@@ -1,5 +1,4 @@
 <table>
-  <!-- ヘッダ -->
   <tr>
     <td>Lang</td>
     <td>Env</td>
@@ -8,7 +7,6 @@
     <td>Service</td>
     <td>Editor</td>
   </tr>
-  <!-- ボディ -->
   <tr>
     <td>
       <img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat">
@@ -16,9 +14,7 @@
        <img src="https://img.shields.io/badge/-Svelte-FF3E00.svg?logo=svelte&style=flat">
       <img src="https://img.shields.io/badge/-Csharp-512BD4.svg?logo=csharp&style=flat">
       <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
-      <img src="https://img.shields.io/badge/-Cpp-00599C.svg?logo=cplusplus&style=flat">
       <img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat">
-      <img src="https://img.shields.io/badge/-Java-FF160B.svg?logo=java&style=flat">
       <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
       <img src="https://img.shields.io/badge/-Lua-2C2D72.svg?logo=lua&style=flat">
       <img src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&style=flat">
@@ -50,7 +46,6 @@
     <td>
       <img src="https://img.shields.io/badge/-Supabase-3FCF8E.svg?logo=supabase&style=flat">
       <img src="https://img.shields.io/badge/-Firebase-DD2C00.svg?logo=firebase&style=flat">
-      <img src="https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=cloudflare&style=flat">
       <img src="https://img.shields.io/badge/-Adobe-FF0000.svg?logo=adobe&style=flat">
     </td>
     <td>
